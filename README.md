@@ -10,7 +10,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/FESG1234)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fotsinggaetan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FESG3002)
-[![Mendeley](https://img.shields.io/badge/Mendeley_Data-9D1620?style=for-the-badge&logo=mendeley&logoColor=white)](https://data.mendeley.com/datasets/rjwttgp23m/1)
+[![Mendeley](https://img.shields.io/badge/Mendeley_Data-9D1620?style=for-the-badge&logo=mendeley&logoColor=white)]((https://data.mendeley.com/drafts/rjwttgp23m))
 
 </div>
 
