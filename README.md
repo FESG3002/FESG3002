@@ -254,9 +254,6 @@ Classification of **Cameroonian fruits** (Pineapple, Orange, Banana, Avocado, Wa
 | Event | Role | Status |
 |:------|:-----|:------:|
 | **CARI 2026** — Springer CCIS | 3rd author (TBIP-GAT) | 🕐 Notification June 2026 |
-| **IEEE QCE26 QML Workshop** — Toronto | Q-TBIP-GAT submission | 📝 Abstract due June 2026 |
-| **Deep Learning Indaba 2026** — Lagos | Participant | 📋 Active waitlist |
-| **QWorld QIntern 2026** | Application (project qi26_17) | ⏳ In progress |
 | **JCIA Hackathon** | Competitor | ✅ Completed |
 | **Hackathon Aurore 1812** | Competitor (NLP Yemba) | ✅ Completed |
 
