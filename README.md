@@ -38,7 +38,7 @@ class FESG:
         "NLP for African Languages",
         "Computer Vision",
     ]
-    currently   = "🔬 CARI 2026 Submission (Springer CCIS) | 📐 IEEE QCE26 QML Workshop"
+    
     ask_me_about = ["Qiskit", "GATv2", "Temporal Graphs", "BPR Loss", "VQC"]
 ```
 
